@@ -1,6 +1,6 @@
 {
   "name": "smsgora",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official Node.js client for the SMS Gora SMS Gateway API: send and receive SMS through your own Android phones, with delivery reports and signed webhooks.",
   "main": "index.js",
   "types": "index.d.ts",
