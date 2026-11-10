@@ -1,0 +1,43 @@
+{
+  "name": "smsgora",
+  "version": "1.0.0",
+  "description": "Official Node.js client for the SMS Gora SMS Gateway API: send and receive SMS through your own Android phones, with delivery reports and signed webhooks.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "sms",
+    "sms-gateway",
+    "sms-api",
+    "android-sms-gateway",
+    "bulk-sms",
+    "send-sms",
+    "otp",
+    "textbee",
+    "webhook",
+    "smsgora",
+    "tekservix"
+  ],
+  "homepage": "https://tekservix.com/smsgora/",
+  "bugs": {
+    "url": "https://github.com/ellyj164/smsgora-node/issues",
+    "email": "support@tekservix.com"
+  },
+  "author": "Tekservix (https://tekservix.com)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellyj164/smsgora-node.git"
+  }
+}
